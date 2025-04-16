@@ -84,17 +84,17 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ishansurdiofficial" target="_blank">
+  <a href="https://www.linkedin.com/in/ishansurdiofficial" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" height="40" title="LinkedIn"/>
   </a>
   <a href="mailto:ishansurdi2105@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height = "40" title="Gmail"/>
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="40" title="Gmail"/>
   </a>
   <a href="https://github.com/ishansurdi" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height = "40" title="GitHub"/>
+    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" title="GitHub"/>
   </a>
-  <a href="https://github.com/ishansurdi" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" height = "40" title="Slack"/>
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" height="40" title="Slack"/>
   </a>
 </p>
 
