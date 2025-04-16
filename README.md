@@ -31,6 +31,7 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
+  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" height = "45" title="R"/>
 </p>
 
 #### 🌐 Frontend
@@ -50,6 +51,7 @@
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" height="40" title="NumPy"/>
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="40" title="Pandas"/>
+   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Excel"/>
   <img src="https://skillicons.dev/icons?i=matplotlib" height="40" title="Matplotlib"/>
 </p>
 
