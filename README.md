@@ -7,22 +7,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 **University:** Dr. Vishwanath Karad MIT World Peace University  
-- 🗓️ **Year:** 2nd Year (Graduating in 2027)  
-- 📚 **Pursuing:** Bachelor's Degree  
-- 🎯 **Focus Area:** Full Stack Development  
-
----
-
-- 💡 I love **turning ideas into real-world digital solutions**  
-- 🧼 Committed to writing **clean, efficient, and scalable code**  
-- ⚙️ Comfortable across the stack — from **frontend interfaces** to **backend APIs** and **database logic**  
-- 🎨 Known for strong **attention to detail** and a knack for **both design and functionality**
-
----
-
 ### 💼 Technical Toolbox
 
 #### 💻 Languages
@@ -31,7 +15,7 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
-  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" height = "45" title="R"/>
+  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" height="45" title="R"/>
 </p>
 
 #### 🌐 Frontend
@@ -64,6 +48,22 @@
 
 ---
 
+### 🧑‍💻 About Me
+
+- 🎓 **University:** Dr. Vishwanath Karad MIT World Peace University  
+- 🗓️ **Year:** 2nd Year (Graduating in 2027)  
+- 📚 **Pursuing:** Bachelor's Degree  
+- 🎯 **Focus Area:** Full Stack Development  
+
+---
+
+- 💡 I love **turning ideas into real-world digital solutions**  
+- 🧼 Committed to writing **clean, efficient, and scalable code**  
+- ⚙️ Comfortable across the stack — from **frontend interfaces** to **backend APIs** and **database logic**  
+- 🎨 Known for strong **attention to detail** and a knack for **both design and functionality**
+
+---
+
 ### 🚀 Currently Exploring
 - 🛠 Full Stack Development (Django + REST + JS)
 - 🧠 Data Structures & Algorithms
@@ -74,7 +74,7 @@
 
 ### 📌 Quick Facts
 
-- 💬 Languages: English, Hindi, Marathi, German(Intermediate)
+- 💬 Languages: English, Hindi, Marathi, German (Intermediate)
 - 🔍 Focused on: Clean code, real-world projects, and collaborative development  
 - 📈 Git & GitHub are my daily drivers  
 - 🌟 Passionate about tech that makes an impact
