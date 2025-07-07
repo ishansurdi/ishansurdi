@@ -51,7 +51,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **University:** Dr. Vishwanath Karad MIT World Peace University  
-- 🗓️ **Year:** 2nd Year (Graduating in 2027)  
+- 🗓️ **Year:** 3rd Year (Graduating in 2027)  
 - 📚 **Pursuing:** Bachelor's Degree  
 - 🎯 **Focus Area:** Full Stack Development  
 
