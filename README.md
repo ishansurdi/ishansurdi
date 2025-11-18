@@ -1,107 +1,168 @@
-<h1 align="center">Hi there, I'm <span style="color:#0f62fe;">Ishan</span> 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer | Python Enthusiast | Problem Solver</h3>
+<!-- ======================================================== -->
+<!--                 ISHAN SURDI — GITHUB README              -->
+<!-- ======================================================== -->
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=250&section=header&text=Ishan%20Surdi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<h2 align="center">Full Stack Developer • Backend Engineer • Python Enthusiast</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=650&lines=Crafting+clean+code+and+scalable+systems.;Turning+ideas+into+real-world+solutions.;Learning+and+building+every+single+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=700&lines=Building+scalable+systems+with+clean+architecture.;Transforming+ideas+into+production-ready+solutions.;Learning+and+improving+every+single+day." />
 </p>
 
 ---
 
-### 💼 Technical Toolbox
+## 🌟 **About Me**
 
-#### 💻 Languages
-<p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
-  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" height="45" title="R"/>
-</p>
+I'm a passionate **Full Stack Developer** driven by backend engineering, algorithms, and building real-world solutions that scale.
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
-</p>
+### 🎓 **Currently**
+- 📌 Undergrad (3rd Year) — Dr. Vishwanath Karad MIT World Peace University  
+- 🎯 Building strong foundations in: **Backend Architecture, DSA, Systems, Cloud**
 
-#### 🗄 Backend & Database
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40" title="Database"/>
-</p>
-
-#### 📊 Data & Analysis
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" height="40" title="NumPy"/>
-  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="40" title="Pandas"/>
-   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Excel"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="40" title="Matplotlib"/>
-</p>
-
-#### 🔧 Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
-</p>
+### ❤️ What I Love
+- Solving problems with **clean, modular, scalable code**
+- Designing intuitive user experiences & robust backend logic
+- Learning new tech every single day  
+- Building things that actually **help people**
 
 ---
 
-### 🧑‍💻 About Me
+## 🌐 **Portfolio Website (Come Say Hi!)**
 
-- 🎓 **University:** Dr. Vishwanath Karad MIT World Peace University  
-- 🗓️ **Year:** 3rd Year (Graduating in 2027)  
-- 📚 **Pursuing:** Bachelor's Degree  
-- 🎯 **Focus Area:** Full Stack Development  
-
----
-
-- 💡 I love **turning ideas into real-world digital solutions**  
-- 🧼 Committed to writing **clean, efficient, and scalable code**  
-- ⚙️ Comfortable across the stack — from **frontend interfaces** to **backend APIs** and **database logic**  
-- 🎨 Known for strong **attention to detail** and a knack for **both design and functionality**
-
----
-
-### 🚀 Currently Exploring
-- 🛠 Full Stack Development (Django + REST + JS)
-- 🧠 Data Structures & Algorithms
-- ☁️ AWS Cloud Fundamentals
-- 🔒 Authentication & Secure Login Systems
-
----
-
-### 📌 Quick Facts
-
-- 💬 Languages: English, Hindi, Marathi, German (Intermediate)
-- 🔍 Focused on: Clean code, real-world projects, and collaborative development  
-- 📈 Git & GitHub are my daily drivers  
-- 🌟 Passionate about tech that makes an impact
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishansurdiofficial" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" height="40" title="LinkedIn"/>
-  </a>
-  <a href="mailto:ishansurdi2105@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="40" title="Gmail"/>
-  </a>
-  <a href="https://github.com/ishansurdi" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" title="GitHub"/>
-  </a>
-  <a href="https://slack.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" height="40" title="Slack"/>
+<p align="center">
+  <a href="https://ishansurdi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0F62FE?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
   </a>
 </p>
 
----
-
-<p align="center" style="font-style:italic;">
-  "Be obsessed with improvement. A little better every day goes a long way."
+<p align="center">
+  <b>✨ My website has everything—projects, achievements, skills, and how to contact me directly.</b>
 </p>
 
-<p align="center">⚡ Thanks for visiting my profile!</p>
+---
+
+## 🧩 **Tech Stack**
+
+### 🖥 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,php,r" height="45" />
+</p>
+
+### 🎨 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45" />
+</p>
+
+### 🗄 Backend & Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" height="45" />
+</p>
+
+### 📊 Data / Analytics Tools  
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="32"/>
+</p>
+
+### 🔧 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="45" />
+</p>
+
+---
+
+## 🎛️ **My Developer Dashboard**
+
+### 🔹 Core Strengths  
+✔ Full Stack (Django + REST + JS)  
+✔ Clean code principles  
+✔ Database schema design  
+✔ Secure login flows & authentication  
+✔ API Architecture  
+✔ Data cleaning & visualization  
+✔ Version control mastery  
+
+---
+
+## 🎯 **Currently Exploring**
+- 🔥 Advanced Django (middleware, signals, modular apps)  
+- 🌐 REST API Architecture & Design Patterns  
+- 🧠 DSA (interview-level)  
+- ☁ Cloud (AWS CP-Level)  
+- 💾 Efficient SQL queries + indexing  
+
+---
+
+## 🧠 **My Tech Philosophy**
+📌 *"Build → Break → Learn → Improve"*  
+
+I believe software should be:
+
+- **Readable** → easy to understand  
+- **Modular** → easy to extend  
+- **Efficient** → optimized for scale  
+- **Secure** → protected from attacks  
+
+Clean code first. Features second.
+
+---
+
+## 📈 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishansurdi&theme=tokyonight&hide_border=true&border_radius=8" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishansurdi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0f62fe" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansurdi&layout=compact&theme=transparent&hide_border=true&title_color=0f62fe" height="170"/>
+</p>
+
+---
+
+## 🎯 **2025 Roadmap**
+
+🚀 **Technical**
+- Master backend architecture  
+- Build 6+ production-quality apps  
+- Learn deployments + CI/CD  
+- Become interview-ready with DSA  
+
+📚 **Certifications**
+- AWS Cloud Practitioner  
+- More advanced backend + Python  
+
+🌎 **Professional Goals**
+- Strong portfolio & GitHub presence  
+- Networking + collaborations  
+- Open-source contributions  
+
+---
+
+## 🤝 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishansurdiofficial"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="mailto:ishansurdi2105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://github.com/ishansurdi"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://ishansurdi.com"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
+</p>
+
+<p align="center">
+  <b>📩 Want to collaborate or hire me? My inbox is always open.</b>
+  <br/>
+  <b>Let's build something amazing together.</b>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer"/>
+</p>
