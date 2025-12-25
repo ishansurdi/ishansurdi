@@ -1,168 +1,91 @@
-<!-- ======================================================== -->
-<!--                 ISHAN SURDI — GITHUB README              -->
-<!-- ======================================================== -->
-
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=250&section=header&text=Ishan%20Surdi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=210&section=header&text=Ishan%20Surdi&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h2 align="center">Full Stack Developer • Backend Engineer • Python Enthusiast</h2>
+<h2 align="center">Full Stack Developer • Backend Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=700&lines=Building+scalable+systems+with+clean+architecture.;Transforming+ideas+into+production-ready+solutions.;Learning+and+improving+every+single+day." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0F62FE&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems.;Clean+architecture+over+quick+fixes.;From+idea+to+production." />
 </p>
 
----
-
-## 🌟 **About Me**
-
-I'm a passionate **Full Stack Developer** driven by backend engineering, algorithms, and building real-world solutions that scale.
-
-### 🎓 **Currently**
-- 📌 Undergrad (3rd Year) — Dr. Vishwanath Karad MIT World Peace University  
-- 🎯 Building strong foundations in: **Backend Architecture, DSA, Systems, Cloud**
-
-### ❤️ What I Love
-- Solving problems with **clean, modular, scalable code**
-- Designing intuitive user experiences & robust backend logic
-- Learning new tech every single day  
-- Building things that actually **help people**
-
----
-
-## 🌐 **Portfolio Website (Come Say Hi!)**
-
 <p align="center">
-  <a href="https://ishansurdi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0F62FE?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
+  <a href="https://ishansurdi.com">
+    <img src="https://img.shields.io/badge/Portfolio-0F62FE?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ishansurdi&label=Profile%20Views&color=0f62fe&style=flat&base=50" />
+</p>
+
+---
+
+## 👋 About
+
+**Backend-focused full stack developer.**  
+I design systems that are clean, scalable, and production-ready.
+
+🎓 BCA (3rd Year) — MIT World Peace University  
+🧠 Focus: **Backend • DSA • Systems • Cloud**
+
+---
+
+## 🧩 Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,django,mysql,git,linux,vscode" />
+</p>
+
+---
+
+## 🛠 What I Do Best
+
+- Backend architecture & REST APIs  
+- Database design & optimization  
+- Secure authentication systems  
+- Clean code & performance engineering  
+
+---
+
+## 🧬 Engineering Activity Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-0f62fe?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%20Focus-Flask-0f62fe?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Mindset-Architecture--First-0f62fe?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>✨ My website has everything—projects, achievements, skills, and how to contact me directly.</b>
-</p>
-
----
-
-## 🧩 **Tech Stack**
-
-### 🖥 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,php,r" height="45" />
-</p>
-
-### 🎨 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="45" />
-</p>
-
-### 🗄 Backend & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" height="45" />
-</p>
-
-### 📊 Data / Analytics Tools  
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="32"/>
-</p>
-
-### 🔧 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="45" />
-</p>
-
----
-
-## 🎛️ **My Developer Dashboard**
-
-### 🔹 Core Strengths  
-✔ Full Stack (Django + REST + JS)  
-✔ Clean code principles  
-✔ Database schema design  
-✔ Secure login flows & authentication  
-✔ API Architecture  
-✔ Data cleaning & visualization  
-✔ Version control mastery  
-
----
-
-## 🎯 **Currently Exploring**
-- 🔥 Advanced Django (middleware, signals, modular apps)  
-- 🌐 REST API Architecture & Design Patterns  
-- 🧠 DSA (interview-level)  
-- ☁ Cloud (AWS CP-Level)  
-- 💾 Efficient SQL queries + indexing  
-
----
-
-## 🧠 **My Tech Philosophy**
-📌 *"Build → Break → Learn → Improve"*  
-
-I believe software should be:
-
-- **Readable** → easy to understand  
-- **Modular** → easy to extend  
-- **Efficient** → optimized for scale  
-- **Secure** → protected from attacks  
-
-Clean code first. Features second.
-
----
-
-## 📈 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishansurdi&theme=tokyonight&hide_border=true&border_radius=8" height="170">
+  <img src="https://img.shields.io/badge/Active%20Repositories-35+-101820?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects%20Shipped-12+-101820?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Years%20Coding-3+-101820?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishansurdi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0f62fe" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishansurdi&layout=compact&theme=transparent&hide_border=true&title_color=0f62fe" height="170"/>
+  <img src="https://img.shields.io/badge/Commit%20Philosophy-Clean%20%E2%86%92%20Scalable%20%E2%86%92%20Maintainable-0f62fe?style=for-the-badge"/>
 </p>
+
+
+
 
 ---
 
-## 🎯 **2025 Roadmap**
+## 🎯 2026 Focus
 
-🚀 **Technical**
-- Master backend architecture  
-- Build 6+ production-quality apps  
-- Learn deployments + CI/CD  
-- Become interview-ready with DSA  
-
-📚 **Certifications**
-- AWS Cloud Practitioner  
-- More advanced backend + Python  
-
-🌎 **Professional Goals**
-- Strong portfolio & GitHub presence  
-- Networking + collaborations  
-- Open-source contributions  
+- Ship 6+ production systems  
+- Master backend & deployments  
+- Crack DSA interviews  
+- Earn AWS Cloud Practitioner  
 
 ---
 
-## 🤝 **Connect With Me**
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishansurdiofficial"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:ishansurdi2105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/ishansurdi"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="https://ishansurdi.com"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
+  <a href="https://www.linkedin.com/in/ishansurdiofficial"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:ishansurdi2105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/ishansurdi"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
-<p align="center">
-  <b>📩 Want to collaborate or hire me? My inbox is always open.</b>
-  <br/>
-  <b>Let's build something amazing together.</b>
-</p>
+<p align="center"><b>Let’s build something great.</b></p>
 
----
-
-<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=110&section=footer"/>
 </p>
