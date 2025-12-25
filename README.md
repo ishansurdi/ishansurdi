@@ -22,7 +22,7 @@
 **Backend-focused full stack developer.**  
 I design systems that are clean, scalable, and production-ready.
 
-🎓 BCA (3rd Year) — MIT World Peace University  
+🎓 CS - Undergrad (3rd Year) — MIT World Peace University  
 🧠 Focus: **Backend • DSA • Systems • Cloud**
 
 ---
